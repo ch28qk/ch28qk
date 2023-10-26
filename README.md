@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ch28qk
-- 🌱 I’m currently learning python
-- 📫 How to reach me: @ch28qk everywhere
+
